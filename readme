@@ -1,0 +1,7 @@
+A geo tag based donation platform using adhaar verification
+Features:
+1.registration using adhar,your face and geo tag for verification
+2.Users should be verified by admin
+3.you can register a need and upload pictures and details which will only be seen once verified by admin
+4.Whenever a need is verified all the verified users will get a mail
+5.Chatbot and chat with admin options available
